@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/89c98320-2359-42e5-a6a8-747021e98012)
 # Ex 1:Datatypes-Boolean Expression Evaluation in Python
 
 ## 🎯 Aim
